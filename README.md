@@ -13,4 +13,4 @@
 1. https://react---todo.herokuapp.com/  *(Todo | Repeated project)
 2. https://react--recipes.herokuapp.com/  *(Recipes | Repeated project)
 3. https://github.com/FeelsGo-od/Characters-HTML-CSS-SASS-   *(Layout | Test from the firm)
-4. https://github.com/FeelsGo-od/iEasyShop  *(Layout | Training project)
+4. https://github.com/FeelsGo-od/iEasyShop  *(Layout | Bootstrap Training project)
