@@ -7,7 +7,7 @@
 4. https://github.com/FeelsGo-od/COWBOY_landing
 
 ---------
-- Projekty dodatkowe(starsze): ###rozumiem Reacta i mogę tworzyć proste strony z przydatnymi funkcjami, ale w tej chwili uczę się podstaw javascript, ponieważ popełniłem bląd nie ucząc się tego wcześniej.
+- Projekty dodatkowe(starsze): ##rozumiem Reacta i mogę tworzyć proste strony z przydatnymi funkcjami, ale w tej chwili uczę się podstaw javascript, ponieważ popełniłem bląd nie ucząc się tego wcześniej.
 --(projekty Heroku ładują się dłużej ze względu na funkcjonowanie tej strony)
 1. https://react--recipes.herokuapp.com/  *(Recipes | Repeated project)
 2. https://react---todo.herokuapp.com/  *(Todo | Repeated project)
