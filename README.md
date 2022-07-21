@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-(Projekty, które zrobiłem w ciągu tygodnia od 11.07-17.07) *nie są duże, ale sporo się nauczyłem.
+- (Projekty, które zrobiłem w ciągu tygodnia od 11.07-17.07) *nie są duże, ale sporo się nauczyłem.
 1. https://github.com/FeelsGo-od/COWBOY_landing
 2. https://github.com/FeelsGo-od/PizzaTime_landing
 3. https://github.com/FeelsGo-od/DesignFreaks_landing
