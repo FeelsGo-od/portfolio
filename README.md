@@ -1,10 +1,10 @@
 # Portfolio
 
 - Projekty, które zrobiłem w ciągu tygodnia od 11.07-17.07 *nie są duże, ale sporo się nauczyłem.
-1. https://github.com/FeelsGo-od/COWBOY_landing
-2. https://github.com/FeelsGo-od/PizzaTime_landing
-3. https://github.com/FeelsGo-od/DesignFreaks_landing
-4. https://github.com/FeelsGo-od/smothie_landing
+1. https://github.com/FeelsGo-od/smothie_landing
+2. https://github.com/FeelsGo-od/DesignFreaks_landing
+3. https://github.com/FeelsGo-od/PizzaTime_landing
+4. https://github.com/FeelsGo-od/COWBOY_landing
 
 ---------
 - Projekty dodatkowe(starsze): *rozumiem Reacta i mogę tworzyć proste strony z przydatnymi funkcjami, ale w tej chwili uczę się podstaw javascript, ponieważ popełniłem bląd nie ucząc się tego wcześniej.
